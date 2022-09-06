@@ -18,3 +18,4 @@ Task 16 whatsnext after counting
 Task 17 displayy lines without a string
 Task 18 starting with letters onluy
 Task 19 quick replacements
+Task 20 removing certain letters from input
