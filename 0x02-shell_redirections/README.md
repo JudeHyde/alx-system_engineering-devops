@@ -9,3 +9,4 @@ Wierd file formatting
 Writing content into new file
 Task 9 completed
 Task 10 completed
+Task 11 completed counting directories
