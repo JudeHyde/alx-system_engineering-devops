@@ -7,3 +7,4 @@ Display 5 first lines
 Display third line task 6
 Wierd file formatting
 Writing content into new file
+Task 9 completed
