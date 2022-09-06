@@ -19,4 +19,5 @@ Task 17 displayy lines without a string
 Task 18 starting with letters onluy
 Task 19 quick replacements
 Task 20 removing certain letters from input
-Task 101 biggest fan
+Task 101 biggest fa
+Task 102 acrostic
