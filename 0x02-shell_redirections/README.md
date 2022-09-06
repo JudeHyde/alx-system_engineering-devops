@@ -4,3 +4,4 @@ Task 3 shows content of file
 Task 3 shows content of two files
 Task 4 prints the last four lines
 Display 5 first lines
+Display third line task 6
