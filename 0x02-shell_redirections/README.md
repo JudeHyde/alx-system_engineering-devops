@@ -14,3 +14,4 @@ Task 12 completed display 10 newest files
 Task 13, sort unique files
 Task 14 finding a string in a file
 Task 15 counting how many times a string appears
+Task 16 whatsnext after counting
