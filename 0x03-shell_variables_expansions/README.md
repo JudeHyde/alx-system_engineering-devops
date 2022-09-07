@@ -5,3 +5,4 @@
 4-Count global variables
 5-List local variables
 6-create local variables
+7-create global variables
