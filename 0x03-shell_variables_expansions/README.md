@@ -4,3 +4,4 @@
 3-Counting directories in PATH
 4-Count global variables
 5-List local variables
+6-create local variables
