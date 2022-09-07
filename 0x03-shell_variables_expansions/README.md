@@ -3,4 +3,4 @@
 2-Adding a directory to path using the export function
 3-Counting directories in PATH
 4-Count global variables
-
+5-List local variables
