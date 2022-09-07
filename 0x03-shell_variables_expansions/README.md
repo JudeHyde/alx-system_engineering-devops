@@ -7,3 +7,4 @@
 6-create local variables
 7-create global variables
 8-Add sum and echo result
+9-Divide and Rule
