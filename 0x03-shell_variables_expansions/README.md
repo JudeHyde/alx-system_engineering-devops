@@ -6,3 +6,4 @@
 5-List local variables
 6-create local variables
 7-create global variables
+8-Add sum and echo result
